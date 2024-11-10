@@ -1,7 +1,20 @@
+
 <style>
                         div { width: 256px; height: 192px; display: block; }
                         img { width: 190px; height: 200px; }
- HEAD
+
+                        table { border: 2px dashed black; }
+                </style>
+
+
+<style>
+                        div { width: 256px; height: 192px; display: block; }
+                        img { width: 190px; height: 150px; }
+
+                        div { width: 256px; height: 192px; display: block; }
+                        img { width: 190px; height: 200px; }
+
+
                         table { border: 2px dashed black; }
                 </style>
 
