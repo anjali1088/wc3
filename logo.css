@@ -1,3 +1,4 @@
+
 /*  <style>
                         div { width: 256px; height: 192px; display: block; }
                         img { width: 200px; height: 94px; }
@@ -8,3 +9,13 @@
 
                 </style>
 */
+<style>
+                        div { width: 256px; height: 192px; display: block; }
+                        img { width: 190px; height: 150px; }
+ HEAD
+                        table { border: 2px dashed black; }
+                </style>
+
+
+
+
